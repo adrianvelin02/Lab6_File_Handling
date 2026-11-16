@@ -1,0 +1,3 @@
+ID: TUPM-26-4332
+ID sum: 20
+Verification value: 142

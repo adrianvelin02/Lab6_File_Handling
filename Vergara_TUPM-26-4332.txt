@@ -1,0 +1,5 @@
+Student: Vergara
+ID: TUPM-26-4332
+Seed digit: 2
+ID sum: 20
+Verification value: 142

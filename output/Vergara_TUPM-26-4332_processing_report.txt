@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+--------------------------------------
+Last Name: Vergara
+Student ID: TUPM-26-4332
+Seed Digit: 2
+ID Sum: 20
+Verification Value: 142
+Dataset Sample Size: 70
+Valid Records: 70
+Average Global Active Power: 4.022
+JSON File: Vergara_TUPM-26-4332_record.json
+Backup File: Vergara_TUPM-26-4332_records.csv
